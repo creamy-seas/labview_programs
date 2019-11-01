@@ -1,0 +1,3 @@
+int output_test(){
+  return 1984;
+}
